@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485142171586",
+    "project_id": "fir-loginsignin-6757d",
+    "storage_bucket": "fir-loginsignin-6757d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485142171586:android:5b1126c24f54de1ac2905b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginsignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDirvkVkZR5VCv9lY2Y5GwQeUEfAn_eBEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
